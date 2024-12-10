@@ -99,19 +99,7 @@ Use the menu options to perform operations:
 
 --------------------------------------------------------------------------------------
 
-sql
-Copy code
-CREATE TABLE users1 (
-    id INT PRIMARY KEY AUTO_INCREMENT,
-    name VARCHAR(50),
-    mobileNumber VARCHAR(15),
-    emailId VARCHAR(100),
-    adharNumber VARCHAR(20),
-    panNo VARCHAR(20),
-    passcode VARCHAR(6),
-    address VARCHAR(255),
-    balance DOUBLE NOT NULL
-);
+
 Potential Enhancements 🚀
 Error Handling: Improve error reporting. ⚠️
 Security: Encrypt sensitive information. 🔐
