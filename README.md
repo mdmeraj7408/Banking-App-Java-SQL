@@ -97,29 +97,7 @@ Use the menu options to perform operations:
 
 
 
-💳 Java Banking System Overview
-This Java Banking System provides basic banking functionalities with a menu-driven interface:
-
-1. Account Management 🏦
-Account Opening: Create a new account by providing personal details (name, mobile, email, etc.) and an initial deposit. 📋💰
-Profile Viewing: View user records, including ID, name, contact details, and balance. 🧐📊
-2. Transactions 💵
-Deposit: Add money to an account and update the balance. 💳💸
-Withdrawal: Withdraw funds after validation and ensuring sufficient balance. 🏧🚶‍♂️
-Balance Check: Check the current account balance. 💰🔍
-3. Modular Design 🔧
-Classes for Specific Tasks:
-BankAccountOpening: Open a new account. 🆕
-Deposit: Handle deposits. 💳
-Withdraw: Handle withdrawals. 💸
-Balance: Check balance. 💵
-Profile: View user profiles. 👤
-Database Interaction: SQL queries are used to interact with the users1 table. 🗄️💻
-4. User Interface 📱
-Console-Based Menu: A simple console-based menu to navigate through the system. 🖥️📑
-Input Validation: Ensures valid user data and consistency. ✅
-Database Table Structure 🗂️
-A database table named users1 is used to store user information like:
+--------------------------------------------------------------------------------------
 
 sql
 Copy code
